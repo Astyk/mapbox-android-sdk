@@ -1,4 +1,7 @@
-[![Build Status](https://travis-ci.org/mapbox/mapbox-android-sdk.svg?branch=mb-pages)](https://travis-ci.org/mapbox/mapbox-android-sdk)
+# Changes to this fork
+1. Uses `Math` instead of `FloatMath`, thus makes it work on API 23.
+
+[Installation Instructions](https://github.com/jrejaud/mapbox-android-sdk/releases/tag/0.7.4)
 
 # Mapbox Android SDK
 
